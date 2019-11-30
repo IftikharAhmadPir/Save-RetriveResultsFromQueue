@@ -1,0 +1,6 @@
+C:\Users\Iftikhar Ahmad Pir\source\repos\CasheValues\CasheValues\bin\Debug\CasheValues.exe.config
+C:\Users\Iftikhar Ahmad Pir\source\repos\CasheValues\CasheValues\bin\Debug\CasheValues.exe
+C:\Users\Iftikhar Ahmad Pir\source\repos\CasheValues\CasheValues\bin\Debug\CasheValues.pdb
+C:\Users\Iftikhar Ahmad Pir\source\repos\CasheValues\CasheValues\obj\Debug\CasheValues.csprojAssemblyReference.cache
+C:\Users\Iftikhar Ahmad Pir\source\repos\CasheValues\CasheValues\obj\Debug\CasheValues.exe
+C:\Users\Iftikhar Ahmad Pir\source\repos\CasheValues\CasheValues\obj\Debug\CasheValues.pdb
